@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/p/d6e1.html</loc>
+    
+    <lastmod>2019-03-13T07:53:57.091Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/schedule/index.html</loc>
+    
+    <lastmod>2019-03-13T06:00:57.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-03-13T05:58:50.202Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2019-03-13T05:52:26.677Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-03-13T05:51:56.437Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/404/404.html</loc>
     
     <lastmod>2019-03-13T05:23:21.905Z</lastmod>
@@ -16,37 +51,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/12/My-New-Post/</loc>
+    <loc>http://yoursite.com/p/2a22.html</loc>
     
-    <lastmod>2019-03-12T07:45:56.481Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/timeline/index.html</loc>
-    
-    <lastmod>2019-03-12T07:45:49.163Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2019-03-12T07:43:42.805Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-03-12T07:16:16.542Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/03/12/hello-world/</loc>
-    
-    <lastmod>2019-03-12T04:26:00.246Z</lastmod>
+    <lastmod>2019-03-01T07:16:55.000Z</lastmod>
     
   </url>
   

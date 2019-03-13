@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[My New Post]]></title>
-    <url>%2F2019%2F03%2F12%2FMy-New-Post%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
+    <title><![CDATA[写在前面]]></title>
+    <url>%2Fp%2Fd6e1.html</url>
+    <content type="text"><![CDATA[时隔3年，又回到了hexo，想起当初跟着教程懵懵懂懂的搭建hexo的时候，似乎又回到了原点。总觉得没留下什么东西，也是时候把这几年的笔记整理一下了]]></content>
       <tags>
-        <tag>Another Tag</tag>
+        <tag>杂谈</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F03%2F12%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[Hexo搭建指北]]></title>
+    <url>%2Fp%2F2a22.html</url>
+    <content type="text"><![CDATA[首先是相关资料 官网 文档 API 快速开始需要先安装好nodejs和git，然后打开命令行工具输入 12345npm install hexo-cli -ghexo init blogcd blognpm installhexo server 浏览器输入地址localhost:4000就可以看到博客了 配置文件可以在 _config.yml 中修改大部分的配置。 常用指令new 新建一篇文章12hexo new [layout] &lt;title&gt; hexo new 文章标题 如果没有设置 layout 的话，默认使用 _config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。 generate 生成文件1hexo g -d 文件生成后立即部署网站 server 启动服务器1hexo s clean 清除缓存1hexo clean 清除缓存文件 (db.json) 和已生成的静态文件 (public)。在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。 publish 发表草稿1hexo publish [layout] &lt;filename&gt; tip:可以把常用的命令组合起来写成npm script后通过npm run执行 写作Hexo 默认以标题做为文件名称，但您可编辑 new_post_name参数来改变默认的文件名称，举例来说，设为 :year-:month-:day-:title.md 可让您更方便的通过日期来管理文章。 模版（Scaffold）在新建文章时，Hexo 会根据 scaffolds 文件夹内相对应的文件来建立文件，例如：1hexo new photo &quot;My Gallery&quot; 在执行这行指令时，Hexo 会尝试在 scaffolds 文件夹中寻找 photo.md，并根据其内容建立文章，以下是您可以在模版中使用的变量： 标签插件https://hexo.io/zh-cn/docs/tag-plugins]]></content>
+      <categories>
+        <category>教程</category>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
 </search>
